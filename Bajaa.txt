@@ -1,0 +1,4 @@
+gate.ghostproxies.net
+1080
+res-any
+gp_6706e773ee55456dbdbb90e823d5aea09921292c99f2fe1b
